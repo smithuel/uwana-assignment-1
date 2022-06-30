@@ -1,0 +1,139 @@
+.move {
+    display: flex;
+}
+
+h1 {
+    margin-left: 300px;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.move p {
+    margin-left: 50px;
+    padding-bottom: 30px;
+}
+
+.turn img {
+    width: 110px;
+    margin-left: 50px;
+}
+
+.paint {
+    background: saddlebrown;
+    color: white;
+    width: 800px;
+    height: 300px;
+    margin-left: 500px;
+}
+
+body {
+   margin-left: 10px;
+   margin-top: 40px;
+}
+
+.two {
+    font-family: sans-serif;
+    margin-top: 80px;
+    margin-left: 820px;
+}
+
+
+.wrap-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+ 
+
+
+.colunm {
+    display: flex;
+    list-style: none;
+    margin: 20px;
+}
+
+.colunm1 {
+    margin-left: 10px;
+}
+
+.colunm1 img {
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    margin-left: 288px;
+}
+
+.public img {
+    width: 100px;
+}
+
+.colunm1 p {
+    margin-left: 305px;
+}
+
+.bind {
+    display: flex;
+    margin-top: 100px;
+}
+
+.move img {
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    margin-left: 102px;
+}
+
+.move h4 {
+    margin-left: 99px;
+    font-size: 20px;
+}
+
+#made {
+    margin-left: 510px;
+    display: flex;
+    padding-top: 90px;
+}
+
+.replace img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.replace {
+    margin-left: 800px;
+    display: flex;
+}
+
+.couple img {
+    margin-left: 90px;
+}
+
+.sub-menu {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.colunm {
+    display: flex;
+    list-style: none;
+    margin: 20px;
+}
+
+.thehead {
+    background: black;
+    color: white;
+    margin-top: 80px;
+}
+
+.colunm1 {
+    margin: 20px;
+}
+
+.colunm1 img {
+    width: 100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
